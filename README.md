@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fannysurbakti
 - 👀 I’m interested in data
 - 🌱 I’m currently learning Python
-- 📫 How to reach me insatgram @fanny.surbakti
+- 📫 How to reach me instagram @_fannysurbakti
 
 <!---
 fannysurbakti/fannysurbakti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
